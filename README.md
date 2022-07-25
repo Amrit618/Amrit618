@@ -1,6 +1,6 @@
-### Hi there 👋, Amrit Bastakoti
-#### Full-Stack Developer
-![Full-Stack Developer](https://twitter.com/Amrit83)
+                                                   ### Hi there 👋
+                                               #### Full-Stack Developer
+                                              (https://twitter.com/Amrit83)
 
 I am Amrit from Helsinki, Finland. I would love to design attractive user interfaces using frameworks and languages like React, TypeScript, and Redux. Currently, I am diving into the backend using Node.js, Express.js, MongoDB, Mongoose, and PostgreSQL.
 

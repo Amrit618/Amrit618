@@ -11,7 +11,7 @@ Skills: JavaScript/TypeScript/React.js/Redux/Bootstrap/Material-UI/SASS/Jest/Mon
 - 📫 How to reach me: amritbastakoti618@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amrit618)  
+[<img src='https://avatars.githubusercontent.com/u/54471881?s=400&u=2348a155cc9f8ab407287c54db39c9cc0e2cf76c&v=4' alt='github' height='40'>](https://github.com/Amrit618)  
 
 
 [![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrit618)](https://github.com/Amrit618/github-readme-stats)

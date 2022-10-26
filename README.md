@@ -7,7 +7,7 @@ I am Amrit from Helsinki, Finland. I would love to design attractive user interf
 Skills: JavaScript/TypeScript/React.js/Redux/Bootstrap/Material-UI/SASS/Jest/MongoDB/Express.js
 
 - 🔭 I’m currently working on E-Commerce (Fullstack Project). 
-- 🌱 I’m currently learning PostgreSQL. 
+- 🌱 I’m currently learning AWS Cloud practitioner. 
 - 📫 How to reach me: amritbastakoti618@gmail.com 
 
 

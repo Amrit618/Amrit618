@@ -4,9 +4,9 @@ Hi,
 
 I am Amrit, Fullstack developer. I am the one who loves to fight with errors and bugs and love to design attractive user interfaces and do backend using frameworks and languages. 
 
-Skills: JavaScript/TypeScript/React.js/Redux/Bootstrap/Material-UI/SASS/Jest/MongoDB/Express.js
+Skills: JavaScript/TypeScript/React.js/NodeJs/Redux/Bootstrap/Material-UI/SASS/Jest/MongoDB/Express.js
 
-- 🔭 I’m currently working on frontend ecommerce project. 
+- 🔭 I’m currently working on frontend e-commerce project. 
 - 🌱 I’m currently learning NextJs. 
 - 📫 How to reach me: amritbastakoti618@gmail.com 
 
